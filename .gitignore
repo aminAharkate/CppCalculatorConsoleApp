@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+*.ipch
+*.aps
+*.ncb
+*.ilk
+*.idb
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+*.db
+*.sln.docstates
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Others
+*.DS_Store
+Thumbs.db
+
