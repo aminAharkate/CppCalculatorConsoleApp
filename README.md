@@ -14,6 +14,8 @@ This is a simple console-based calculator written in C++ using Visual Studio 202
 - Visual Studio 2022
 - C++ development tools installed
 
+## For Quick View
+- All code in flle ==> - Project_1_Calculator.cpp
 ### How to Run
 1. Clone the repository.
 2. Open the `.sln` file in Visual Studio.
